@@ -1,3 +1,12 @@
+## Hello Blockchain From GUI
+
+This project is a proof of concept showing how one can transition from Shuffle E2E testing, REPL console
+to a web GUI, reusing the same underlying typescript.
+
+![Sample GUI](public/sample.png)
+
+---
+
 *Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*
 
 *Looking for a shareable component template instead? You can [use SvelteKit for that as well](https://kit.svelte.dev/docs#packaging) or the older [sveltejs/component-template](https://github.com/sveltejs/component-template)*
